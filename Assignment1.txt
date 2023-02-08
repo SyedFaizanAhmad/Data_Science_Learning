@@ -1,0 +1,27 @@
+Answers of Assignment 1:
+
+1. Python Programming Language was developed by Dutch programmer named Guido van Rossum.
+2. Python supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.
+3. Yes, Python is case sensitive when dealing with identifiers.
+4. The correct extension of Python file is .py
+5. Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine.
+6. Some blocks in Python are modules, function, classes, method etc.
+7. # (Hash) is used to give single line comments in Python.
+8. Python version can be found in many ways. Following are few methods:
+   sys.version
+   python_version()  function
+   python -v  command from command line
+9. lambda
+10. PIP stands for Preferred Installer program in Python.
+11. Some built in functions are : len(),max(),min(),ord()
+12. 79 characters.
+13. Benefits of usig Python:
+     a. It is easy and simple to use.
+     b. Provides in built libraries for majority of work.
+     c. Freeware
+     d. Can fulfil complex requirements.
+14. Memory management in Python involves a private heap containing all Python objects and data structures. 
+     The management of this private heap is ensured internally by the Python memory manager.
+15. We can download python online and then install it. For steps, we can search google and follow the steps.
+16. Indentation is very crucial for Python. The control of the programme primarily depends on indentation.
+
